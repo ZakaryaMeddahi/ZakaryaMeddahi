@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakarya Meddahi</h1>
 <h3 align="center">A Computer Science Student and Looking to be a good Software Developer</h3>
 
-- 🌱 I’m currently learning **JS, ReactJS and bash**
+- 🌱 I’m currently learning **JS, NodeJS and System Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
