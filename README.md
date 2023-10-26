@@ -15,13 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaryaMeddahi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Projects
-<span>
-  <a href="https://jobin-j0ut.onrender.com/">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1692701002/gitcards/pjathtkxayhoussz2kin.png" alt="project image"/>
-  </a>
-<span>
-
 <br/>
 
 ### ✍️ Random Dev Quote
