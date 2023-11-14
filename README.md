@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Student and Looking to be a good Software Developer</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on jobs-app<br>👯 I’m looking to collaborate on node js projects<br>🌱 I’m currently learning node js
+🔭 I’m currently working on a video conferencing app<br>👯 I’m looking to collaborate on node js projects<br>🌱 I’m currently learning React js and Nest js
 
 
 ## 🌐 Socials:
