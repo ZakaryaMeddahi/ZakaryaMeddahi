@@ -51,7 +51,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakaryaMeddahi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="zakaryameddahi" /></p>
 
-<p><img align="cneter" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=tokyonight&hide_border=false" alt="zakaryameddahi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=tokyonight&hide_border=false" alt="zakaryameddahi" /></p>
 
 <hr/>
 
