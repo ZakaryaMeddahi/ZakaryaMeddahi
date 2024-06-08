@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Node-JS projects**
 
-- 💬 Ask me about **Express-JS, Nest-JS, MongoDB, PostgreSQL**
+- 💬 Ask me about **Express-JS, Nest-JS, MongoDB, PostgreSQL, Websocket, WebRTC**
 
 - 📫 How to reach me **zakaryameddahi@gmail.com**
 
