@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakarya Meddahi</h1>
 <h3 align="center">A Computer Science Student and Looking to be a good Software Developer</h3>
 
-- 🔭 I’m currently working on **Online School System**
+- 🔭 I’m currently working on **Online School System**   
 
 - 🌱 I’m currently learning **Next-JS and Nest-JS**
 
