@@ -83,11 +83,11 @@
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakaryaMeddahi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="zakaryameddahi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZakaryaMeddahi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="zakaryameddahi" /></p>
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=tokyonight&hide_border=false" alt="zakaryameddahi" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=tokyonight&hide_border=false" alt="zakaryameddahi" /></p>
 
 <hr/>
 
