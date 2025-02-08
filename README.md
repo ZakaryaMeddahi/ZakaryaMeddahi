@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working on **Online School System**-->   
 
-- 🌱 I’m currently learning **Next-JS and Nest-JS**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👯 I’m looking to collaborate on **Node-JS projects**
 
