@@ -1,78 +1,103 @@
-<h1 align="center">Hi 👋, I'm Zakarya Meddahi</h1>
-<h3 align="center">Backend Developer | Node.js Specialist</h3>
+<h1 align="center">Zakarya Meddahi</h1>
+<h3 align="center">Backend Engineer · Spring Boot · Node.js · Fintech</h3>
 
-- 🚀 Currently working with **Microservices & RabbitMQ**
-- 💼 Experienced in building scalable applications with **Node.js, NestJS, and Express.js**
-- 🌱 Passionate about **System Design**
-- 👯 Open to collaborate on **Backend & Microservices Projects**
-- 💬 Ask me about **Node.js, NestJS, GraphQL, PostgreSQL, MongoDB, WebSocket, WebRTC**
-- 📫 Reach me at **zakaryameddahi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zakarya-meddahi" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="zakarya-meddahi"  /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/zakarya-meddahi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:zakaryameddahi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
+  </a>
 </p>
 
-<hr/>
+---
 
-<h3 align="left">Core Technologies:</h3>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+Backend Engineer with hands-on experience in fintech systems, building reliable, scalable APIs and microservices. I work primarily with **Spring Boot** and **Node.js / NestJS**, with a focus on event-driven architecture, clean system design, and backend performance.
+
+Currently expanding into **Go**, **AWS**, and **Agentic AI systems**.
+
+MSc in Computer Science · Open to new opportunities.
+
+---
+
+### What I Work With
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="36" alt="Java" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=spring" height="36" alt="Spring Boot" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="36" alt="NestJS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="Express.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="36" alt="GraphQL" />
 </p>
 
-<h3 align="left">Databases & Tools:</h3>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+**Databases & Messaging**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="36" alt="RabbitMQ" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="36" alt="Elasticsearch" />
 </p>
 
-<h3 align="left">Frontend & Other Skills:</h3>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+**Infrastructure & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postman" height="36" alt="Postman" />
 </p>
 
-<hr/>
+**Currently Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=go" height="36" alt="Go" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="36" alt="Terraform" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakaryaMeddahi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="zakaryameddahi" /></p>
+---
 
-<hr/>
+### Areas of Focus
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZakaryaMeddahi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="zakaryameddahi" /></p>
+- Microservices architecture and event-driven systems (RabbitMQ, Kafka concepts)
+- RESTful and GraphQL API design with performance and reliability in mind
+- Fintech backend systems -- payments, transaction processing, data integrity
+- System design -- scalability, fault tolerance, distributed patterns
+- Agentic AI integration with backend systems
 
-<hr/>
+---
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=tokyonight&hide_border=false" alt="zakaryameddahi" /></p>
+### GitHub Activity
 
-<hr/>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakaryaMeddahi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<h3>✍️ Random Dev Quote </h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+---
+
+### Get in Touch
+
+- 💼 [linkedin.com/in/zakarya-meddahi](https://linkedin.com/in/zakarya-meddahi)
+- 📧 zakaryameddahi@gmail.com
+- 🌐 Portfolio -- coming soon
