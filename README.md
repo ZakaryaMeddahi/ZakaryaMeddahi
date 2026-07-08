@@ -90,11 +90,8 @@ MSc in Computer Science · Open to new opportunities.
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZakaryaMeddahi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p> -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakaryaMeddahi&show_icons=true&rank_icon=github&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&icon_color=3B82F6&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakaryaMeddahi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ZakaryaMeddahi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
